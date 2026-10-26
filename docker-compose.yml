@@ -1,0 +1,9 @@
+services:
+  landing-page:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: gju-landing-page
+    ports:
+      - "3000:3000"
+    restart: always
