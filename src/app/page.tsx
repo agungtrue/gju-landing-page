@@ -796,7 +796,7 @@ export default function LandingPage() {
                 },
                 {
                   icon: <FaTiktok size={14} />,
-                  url: "https://www.tiktok.com/@rehania071181?_r=1&_t=ZS-9Ag66Jb78Ra",
+                  url: "https://www.tiktok.com/@gilangjayautama92?_r=1&_t=ZS-9Arx8TTLZ1l",
                 },
                 {
                   icon: <FaYoutube size={14} />,
